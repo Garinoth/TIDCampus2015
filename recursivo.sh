@@ -1,1 +1,1 @@
-echo 'Lo que quiera'
+exit 0
